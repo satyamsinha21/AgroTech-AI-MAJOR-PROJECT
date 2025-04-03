@@ -84,20 +84,6 @@ const CropRecommendationCard = () => {
                     <li>Recommendations for soil amendments and improvements.</li>
                 </ul>
             )
-        },
-        {
-            image: "https://th.bing.com/th/id/OIP.m5-x6mfyS59kwL_pH2L-ugHaEK?w=1000&h=562&rs=1&pid=ImgDetMain",
-            title: "Irrigation System Prediction",
-            description: "Determine the most effective irrigation system for your farm.",
-            link: "/irrigation",
-            details: (
-                <ul>
-                    <li>Drip vs. sprinkler irrigation suitability.</li>
-                    <li>Water availability and crop water requirements.</li>
-                    <li>Soil moisture retention and evaporation rates.</li>
-                    <li>Efficiency recommendations for water conservation.</li>
-                </ul>
-            )
         }
     ];
 
